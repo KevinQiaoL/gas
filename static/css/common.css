@@ -1,0 +1,17 @@
+	.content {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+	.main-pd {
+		padding: 20rpx;
+	}
+	.content--pd{
+		padding: 20rpx;
+	}
+	
+	// 修改默认样式
+	uni-app,uni-page-body{
+		background-color: #F7F4F8;
+	}
