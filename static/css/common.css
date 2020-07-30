@@ -11,7 +11,7 @@
 		padding: 20rpx;
 	}
 	
-	// 修改默认样式
+	/* 修改默认样式 */
 	uni-app,uni-page-body{
 		background-color: #F7F4F8;
 	}
